@@ -13,4 +13,4 @@ This project is my approach at getting better by doing. It explores modular embe
 - MPU6050 (motion module)
 - SSD1306 OLED (I2C)
 - Active buzzer
-- (optional) push button
+- Push button
