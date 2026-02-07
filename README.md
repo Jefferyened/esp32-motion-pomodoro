@@ -13,4 +13,9 @@ This project is my approach at getting better by doing. It explores modular embe
 - MPU6050 (motion module)
 - SSD1306 OLED (I2C)
 - Active buzzer
-- Push button
+- Push buttons
+
+## Repo layout
+- `/experiments` – hardware bring-up tests (buttons, MPU6050, buzzer)
+- `/PomodoroTimer` – integrated firmware (Arduino IDE, in progress)
+- `/docs` – wiring and design notes
